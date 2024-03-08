@@ -1,0 +1,24 @@
+css
+
+body{
+    background-color:blue ;
+}
+.form{
+    background-image: url(../img/varios.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 47%;
+    height: 95vh;
+    justify-content: space-evenly;
+    color: rgb(255, 0, 0);
+}
+.vacio{
+    color: darkgoldenrod;
+    background-image: url(../img/varios.jpg);
+    display: flex;
+    margin-left: 51%;
+    width: 47%;
+    height: 95vh;
+    margin-top: -97vh
+}
